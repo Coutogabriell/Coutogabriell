@@ -1,8 +1,8 @@
 ## Olá, Eu sou o Gabriel! 👋
 
 <div>
-  <img height="135" src="https://github-readme-stats.vercel.app/api?username=Coutogabriell&theme=dark&show_icons=true"/>
-  <img height="135" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coutogabriell&layout=compact&langs_count=16&theme=dark"/>
+  <img height="140" src="https://github-readme-stats.vercel.app/api?username=Coutogabriell&theme=dark&show_icons=true"/>
+  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coutogabriell&layout=compact&langs_count=16&theme=dark"/>
 
   <div  align="center"> 
   <div align="center" style="display: inline_block"><br>
