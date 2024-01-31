@@ -1,6 +1,6 @@
 ## Olá, Eu sou o Gabriel! 👋
 
-<div>
+<div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Coutogabriell&theme=dark&show_icons=true"/>
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coutogabriell&layout=donut&theme=dark&langs_count=16"/>
 
