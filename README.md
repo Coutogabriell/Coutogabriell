@@ -1,4 +1,4 @@
-## Olá, Eu sou o Gabriel! 👋
+## Gabriel Couto 🧑‍💻
 
 <div align="center">
 
